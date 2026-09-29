@@ -1,0 +1,3 @@
+/* CarePlus Pharmacy - small fixes on top of the template */
+html, body { overflow-x: hidden; }
+.badge-pill.badge-light { background: #eef9f7; color: #12a887; }
